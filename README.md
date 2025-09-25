@@ -34,7 +34,7 @@ Upload PDFs → Build embeddings → Ask questions → Get answers with both **e
 
 ## 📸 Screenshots
 
-![APP Preview](assets/rag-pipline.png)
+![APP Preview](assets/rag-app.png)
 
 
 ![Retrieval Preview](assets/queries-generation.png)
