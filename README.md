@@ -1,5 +1,11 @@
 # Mini AI RAG chat 
-Steps are easy to follow Hisham 
+Steps are easy to follow 
+
+
+# 📱 Mini AI RAG Chat App
+
+An interactive **RAG-based document Q&A app** built with **Python + Jupyter/Gradio**.  
+Upload PDFs → Build embeddings → Ask questions → Get answers with both **extractive** and **generative** models.
 
 ## Download the notebook file
 
