@@ -29,3 +29,14 @@ Upload PDFs → Build embeddings → Ask questions → Get answers with both **e
 | Retrieval           | ✅       | Retrieved top-k most relevant chunks per query. |
 | QA Models           | ✅       | Used DistilBERT for extractive answers and Flan-T5 for generative answers. |
 | Interactive UI      | ✅       | Built a Gradio interface for uploading PDFs and asking questions. |
+
+
+
+## 📸 Screenshots
+
+
+![Retrieval Preview](assets/queries-generation.png)
+
+
+![Extractive Answer](assets/rag-pipline.png)
+
